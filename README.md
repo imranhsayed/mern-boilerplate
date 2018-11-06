@@ -1,7 +1,9 @@
 # A MERN( Mongodb, Express, React, Node ) Boilerplate
 ## Description
 Has following built in functionalities:
+
 -Login and Registration Routes with csrf Protection
+
 -Register with Facebook and Google along with Recaptcha verification
 
 -Login with Facebook and Google along with Recaptcha verification
