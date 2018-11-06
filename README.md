@@ -26,7 +26,8 @@ Has following built in functionalities:
 ## Installation Instructions
 
 git clone https://github.com/imranhsayed/mern-boilerplate
-cd mern-boilerplate
+
+`cd mern-boilerplate`
 #### in root dir
 `$ npm cache clean --force
 npm install`
