@@ -1,4 +1,17 @@
 # A MERN( Mongodb, Express, React, Node ) Boilerplate
+## Description
+Has following built in functionalities:
+-Register with Facebook and Google along with Recaptcha verification
+-Login with Facebook and Google along with Recaptcha verification
+-Logout
+-Email Verification with Mailgun
+-Reset Password by sending the new password on email.
+-Form Validations at both client and server side.
+-Private Routes Option
+-Mongodb and Redux Setup
+-uses create-react-app
+
+
 ## Installation Instructions
 
 git clone https://github.com/imranhsayed/mern-boilerplate
