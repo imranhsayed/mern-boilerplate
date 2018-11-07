@@ -31,7 +31,7 @@ git clone https://github.com/imranhsayed/mern-boilerplate
 #### in root dir
 `$ npm cache clean --force`
 
-`npm install`
+`$ npm install`
 #### in client dir
 `$ cd client`
 
