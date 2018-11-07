@@ -27,7 +27,7 @@ Has following built in functionalities:
 
 git clone https://github.com/imranhsayed/mern-boilerplate
 
-`cd mern-boilerplate`
+`$ cd mern-boilerplate`
 #### in root dir
 `$ npm cache clean --force`
 
@@ -35,8 +35,9 @@ git clone https://github.com/imranhsayed/mern-boilerplate
 #### in client dir
 `$ cd client`
 
-`npm cache clean --force`
-`npm install`
+`$ npm cache clean --force`
+
+`$ npm install`
 
 Install nodemon and create-react-app globally using below command:
 
